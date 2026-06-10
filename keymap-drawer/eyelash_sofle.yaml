@@ -61,8 +61,8 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: Game, h: toggle}
   - $$mdi:apple-keyboard-shift$$
-  - LANGUAGE 1
   - LAYER2
+  - LANGUAGE 1
   - LAYER3
   - $$mdi:backspace-reverse-outline$$
   LAYER1:
@@ -191,8 +191,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   LAYER3:
